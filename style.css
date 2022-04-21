@@ -1,0 +1,13 @@
+body {
+    background-color:greenyellow;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.title {
+    font-size: 36px;
+    background-color: rgb(255, 192, 203);
+}
+
+ul {
+font-weight: bold;
+}
